@@ -1,3 +1,4 @@
 # JsVideoPlayer
 Custom video player using Vanilla javascript with custom theme
-Deployment: 
+# Deployment:
+https://10ish.github.io/JsVideoPlayer/
